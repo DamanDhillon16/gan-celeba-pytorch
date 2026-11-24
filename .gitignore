@@ -1,0 +1,43 @@
+# Secrets (never upload)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datasets (too large, download links go in the README)
+data/
+dataset/
+img_align_celeba/
+*.zip
+*.csv
+*.parquet
+
+# Large model files
+*.bin
+*.ckpt
+*.h5
+*.onnx
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Notebooks and tooling
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Training clutter
+runs/
+logs/
+wandb/
+checkpoint-*/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
