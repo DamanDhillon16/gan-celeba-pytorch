@@ -33,7 +33,7 @@ Python, PyTorch, torchvision, NumPy, Matplotlib, Pillow, Google Colab
 
 ## Dataset
 
-The dataset is not included (about 1.2 GB). Download CelebA (aligned and cropped images) from https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html and place the images in `img_align_celeba/`.
+The dataset is not included in this repo (about 1.2 GB). Download the aligned and cropped CelebA images from the [official CelebA page](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place the images in a folder named `img_align_celeba/`.
 
 ## Run
 
@@ -50,7 +50,7 @@ The dataset is not included (about 1.2 GB). Download CelebA (aligned and cropped
 
 ## Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Daman Dhillon**
+[LinkedIn](https://www.linkedin.com/in/daman-jeet-kaur-dhillon-324191312/) | [GitHub](https://github.com/DamanDhillon16)
 
 Copyright (c) 2026 Your Name. All rights reserved.
